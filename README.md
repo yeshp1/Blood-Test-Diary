@@ -1,10 +1,6 @@
 
 #Blood Test Diary
 
-
-### Commit Commenting
-
-
 ### Branching
 
 
